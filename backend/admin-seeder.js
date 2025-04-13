@@ -17,10 +17,10 @@ const seedData = async () => {
 
         const adminDetail = {
             employeeId: "123456",
-            firstName: "Sundar",
-            middleName: "R",
-            lastName: "Pichai",
-            email: "sundarpichar@gmail.com",
+            firstName: "Dr.",
+            middleName: "Srinivas",
+            lastName: "Sethi",
+            email: "srinivas_sethi@igitsarang.ac.in",
             phoneNumber: "1234567890",
             gender: "Male",
             type: "Admin",
